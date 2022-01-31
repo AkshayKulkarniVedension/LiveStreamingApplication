@@ -1,0 +1,99 @@
+{
+  "streams": [
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 1
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 2
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 3
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 4
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 5
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 6
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 7
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 8
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 9
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 10
+    },
+    {
+      "title": "man",
+      "description": "nAME",
+      "id": 11
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 12
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 13
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 14
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 15
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 16
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 17
+    },
+    {
+      "title": "name",
+      "description": "surname",
+      "id": 18
+    },
+    {
+      "title": "stream",
+      "description": "stream video",
+      "id": 19
+    }
+  ]
+}
